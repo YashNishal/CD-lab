@@ -1,0 +1,1 @@
+S->aa|aaAB|aaAd|bA|bca|db
